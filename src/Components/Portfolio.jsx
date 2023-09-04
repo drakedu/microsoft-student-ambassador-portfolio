@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "This image is of an aerial view of a desk with a planner overlaid with a pen and a vase of pink flowers.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Citadel Summer Invitational Datathon Champion",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Conducted with a team an empirical analysis on both the causes and consequences of airline route elimination in rural and small towns across the United States",
+    url: "https://www.linkedin.com/in/drake-du/overlay/1635535413183/single-media-viewer/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Outr — Find Out Corporations' True Colors",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Engineered a Google Chrome extension for users to more readily understand corporations’ political donations to anti-LGBTQIA+ campaigns",
+    url: "https://chrome.google.com/webstore/detail/outr-%E2%80%94-find-out-corporati/miobpojmajfkaniipifhinbgadokmajd",
   },
   {
-    title: "My Resume Site",
+    title: "Harvard Tech for Social Good Product Manager",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Oversaw a team programming an extract, transform, and load (ETL) data consolidation script for the National Institute for Occupational Safety and Health to more efficiently analyze 20 data sets maintained by the Mine Safety and Health Administration",
+    url: "https://www.linkedin.com/in/drake-du/details/experience/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Ersilia Software Engineer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Engineered with a team a graphical user interface (GUI) for labs, universities, and clinics conducting infectious and neglected disease research to more easily access the 100+ machine learning (ML) models assembled by the Ersilia Open Source Initiative",
+    url: "https://www.linkedin.com/in/drake-du/details/experience/",
   },
 ];
 

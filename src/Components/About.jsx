@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/about.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "This image is of a bouquet of purple and white peonies.";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a student at Harvard University pursuing a Double Concentration in Statistics and Computer Science and a Secondary Field in Economics. Previously, I've worked at Scale AI and Cleveland Clinic.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python | JavaScript | C++ | SQL",
+  "React | Angular | Django | Flask",
+  "R | OCaml | LaTeX | HTML/CSS",
+  "Data Modeling",
+  "Graphic Design",
+  "Public Speaking",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Outside of work and school, I serve as a Microsoft Student Ambasador, Harvard-MIT Mathematics Tournament (HMMT) Director of Outreach, and Mathematical Association of America Mathematics Grader. I'm also involved with Out in Tech and the Harvard Computer Society. In my free time, I like to develop technology for social good and learn about the many different genera of orchids.";
 
 const About = () => {
   return (
